@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Damien — IA et automatisation</title>
+  <desc id="desc">Bannière noire et bleue à lignes géométriques discrètes, avec le nom Damien et la signature Construire utile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.58" stop-color="#0b1428"/>
+      <stop offset="1" stop-color="#07101f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#76c5ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#3d6ba8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <path d="M 865 54 H 1030 L 1090 114 H 1170 M 793 112 H 930 L 975 157 H 1158 M 875 235 H 1005 L 1070 170 H 1172" fill="none" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+    <circle cx="865" cy="54" r="5" fill="#64b6ff"/>
+    <circle cx="793" cy="112" r="5" fill="#64b6ff"/>
+    <circle cx="875" cy="235" r="5" fill="#64b6ff"/>
+    <circle cx="1090" cy="114" r="5" fill="#64b6ff"/>
+    <circle cx="975" cy="157" r="5" fill="#64b6ff"/>
+    <circle cx="1070" cy="170" r="5" fill="#64b6ff"/>
+    <rect x="54" y="53" width="118" height="27" rx="13.5" fill="#122e56" stroke="#3b82f6" stroke-opacity="0.55"/>
+    <text x="113" y="71" fill="#9fcfff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" text-anchor="middle">NEXUS AI</text>
+    <text x="54" y="171" fill="#f4f8ff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="4">DAMIEN</text>
+    <rect x="54" y="188" width="310" height="3" fill="url(#accent)"/>
+    <text x="54" y="229" fill="#b9cbe5" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">IA · AUTOMATISATION · TECH</text>
+    <text x="54" y="271" fill="#77a8dc" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">CONSTRUIRE UTILE.</text>
+  </g>
+</svg>
