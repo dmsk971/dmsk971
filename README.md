@@ -1,26 +1,37 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Damien — IA, automatisation et systèmes utiles ; bannière noire et bleue" width="100%" />
+  <img src="assets/banner.svg" alt="DMSK971 — IA, automatisation et développement ; identité violette PULSE" width="100%" />
 </div>
-
-<br />
 
 ### Salut, moi c'est Damien.
 
-Je m'intéresse à l'IA, à l'automatisation et aux outils qui rendent une tâche plus simple, plus fiable ou plus claire. J'aime partir d'un besoin concret, construire une solution sobre, puis expliquer comment elle fonctionne.
+Étudiant en **gestion de projets IA et automatisation**, en alternance chez **Orange**. Je construis des outils concrets autour de l'intelligence artificielle, des automatisations et du développement.
+
+Mon objectif : partir d'un besoin réel, créer une solution utile, la tester et documenter clairement ses limites.
 
 ### Ce que je construis
 
-| Axe | Ce que j'explore |
+| Domaine | Ce que j'explore |
 | --- | --- |
-| **NEXUS AI** | Un univers de projets en construction autour d'une IA utile et maîtrisée. |
-| **Automatisation** | Des flux qui relient des outils, réduisent les gestes répétitifs et gardent une place pour la vérification humaine. |
-| **Tech & données** | Des applications et des expériences documentées, avec une attention portée à la lisibilité et à la confidentialité. |
+| **IA & agents** | Assistants personnels, modèles locaux et orchestration d'agents. |
+| **Automatisation** | Workflows n8n, intégrations entre outils et tâches répétitives simplifiées. |
+| **Développement** | Applications web, bots, tableaux de bord et interfaces utiles. |
+| **Fiabilité** | Tests, documentation, confidentialité et contrôle humain. |
 
-### Ma façon de travailler
+### Projets en cours
 
-`Besoin réel` → `Prototype` → `Test` → `Documentation` → `Amélioration`
+- **NEXUS AI** — un environnement d'expérimentation autour d'agents IA et d'automatisations.
+- **Zozo** — un assistant Discord personnel et des intégrations pour mon environnement numérique.
+- **DMSK Studio** — des expériences de développement web et d'outils orientés usages concrets.
 
-Je publie ici les projets que je peux présenter clairement : leur objectif, leur fonctionnement, leurs limites et ce que j'en ai appris.
+*Certains projets sont privés ou encore en développement. Je partage publiquement ce qui peut être présenté et documenté proprement.*
+
+### Outils & technologies
+
+`JavaScript` · `Node.js` · `React` · `Python` · `n8n` · `Docker` · `PostgreSQL` · `Ollama` · `GitHub Actions`
+
+### Ma méthode
+
+`Besoin` → `Prototype` → `Test` → `Documentation` → `Amélioration`
 
 ---
 
