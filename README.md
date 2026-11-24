@@ -2,11 +2,9 @@
   <img src="assets/banner.svg" alt="DMSK971 — IA, automatisation et développement ; identité violette PULSE" width="100%" />
 </div>
 
-### Salut, moi c'est Damien.
+### Salut, moi c’est Damien 👋
 
-Étudiant en **gestion de projets IA et automatisation**, en alternance chez **Orange**. Je construis des outils concrets autour de l'intelligence artificielle, des automatisations et du développement.
-
-Mon objectif : partir d'un besoin réel, créer une solution utile, la tester et documenter clairement ses limites.
+Je suis en alternance chez Orange. À côté, je développe des sites web, des automatisations et des assistants IA. Ce qui me plaît, c’est de partir d’un problème concret, de construire un outil qui fait gagner du temps et de le tester jusqu’à ce qu’il soit vraiment utile.
 
 ### Ce que je construis
 
